@@ -7,7 +7,7 @@ const GifExpertApp = () => {
 
     // const categories = ['One Punch', 'Samurai X', 'Dragon Ball'];
     // dentro del useState( valor inicial );
-    const [ categories, setCategories ] = useState( ['Re:Zero'] );
+    const [ categories, setCategories ] = useState( ['Sultan'] );
 
     /* 
     const handleAdd = (e) => {
